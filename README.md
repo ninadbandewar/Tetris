@@ -1,1 +1,1 @@
-The game can be run locally on Visual Studio Code.
+The game can be played locally on Visual Studio Code.
